@@ -2,5 +2,5 @@ Sberbank is challenging Kagglers to develop algorithms which use a broad spectru
 
 ## This predict01.py 
 
-
- is predicting reality prices in Russia using various features, for competiting in this competition
+is using some of trick from below article and using XGBRegressor for predicting a score of 0.388 U
+http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
